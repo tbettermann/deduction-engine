@@ -1,0 +1,25 @@
+[
+  { "type": "ROOM", "id": "room_1", "displayNames": { "en": "Room 1" } },
+  { "type": "ROOM", "id": "room_2", "displayNames": { "en": "Room 2" } },
+  { "type": "ROOM", "id": "room_3", "displayNames": { "en": "Room 3" } },
+  { "type": "ROOM", "id": "room_4", "displayNames": { "en": "Room 4" } },
+  { "type": "ROOM", "id": "room_5", "displayNames": { "en": "Room 5" } },
+  { "type": "ROOM", "id": "room_6", "displayNames": { "en": "Room 6" } },
+  { "type": "ROOM", "id": "room_7", "displayNames": { "en": "Room 7" } },
+  { "type": "ROOM", "id": "room_8", "displayNames": { "en": "Room 8" } },
+  { "type": "ROOM", "id": "room_9", "displayNames": { "en": "Room 9" } },
+
+  { "type": "SUBJECT", "id": "subject_1", "displayNames": { "en": "Suspect A" } },
+  { "type": "SUBJECT", "id": "subject_2", "displayNames": { "en": "Suspect B" } },
+  { "type": "SUBJECT", "id": "subject_3", "displayNames": { "en": "Suspect C" } },
+  { "type": "SUBJECT", "id": "subject_4", "displayNames": { "en": "Suspect D" } },
+  { "type": "SUBJECT", "id": "subject_5", "displayNames": { "en": "Suspect E" } },
+  { "type": "SUBJECT", "id": "subject_6", "displayNames": { "en": "Suspect F" } },
+
+  { "type": "TOOL", "id": "tool_1", "displayNames": { "en": "Tool 1" } },
+  { "type": "TOOL", "id": "tool_2", "displayNames": { "en": "Tool 2" } },
+  { "type": "TOOL", "id": "tool_3", "displayNames": { "en": "Tool 3" } },
+  { "type": "TOOL", "id": "tool_4", "displayNames": { "en": "Tool 4" } },
+  { "type": "TOOL", "id": "tool_5", "displayNames": { "en": "Tool 5" } },
+  { "type": "TOOL", "id": "tool_6", "displayNames": { "en": "Tool 6" } }
+]

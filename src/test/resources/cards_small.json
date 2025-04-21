@@ -1,0 +1,14 @@
+[
+  { "type": "ROOM", "id": "room_1", "displayNames": { "en": "Room 1", "de": "Raum 1" } },
+  { "type": "ROOM", "id": "room_2", "displayNames": { "en": "Room 2", "de": "Raum 2" } },
+  { "type": "ROOM", "id": "room_3", "displayNames": { "en": "Room 3", "de": "Raum 3" } },
+  { "type": "ROOM", "id": "room_4", "displayNames": { "en": "Room 4", "de": "Raum 4" } },
+
+  { "type": "SUBJECT", "id": "subject_1", "displayNames": { "en": "Subject 1", "de": "Verdächtiger 1" } },
+  { "type": "SUBJECT", "id": "subject_2", "displayNames": { "en": "Subject 2", "de": "Verdächtiger 2" } },
+  { "type": "SUBJECT", "id": "subject_3", "displayNames": { "en": "Subject 3", "de": "Verdächtiger 3" } },
+
+  { "type": "TOOL", "id": "tool_1", "displayNames": { "en": "Tool 1", "de": "Werkzeug 1" } },
+  { "type": "TOOL", "id": "tool_2", "displayNames": { "en": "Tool 2", "de": "Werkzeug 2" } },
+  { "type": "TOOL", "id": "tool_3", "displayNames": { "en": "Tool 3", "de": "Werkzeug 3" } }
+]
