@@ -4,6 +4,7 @@ A Kotlin-based logic engine for deduction games.
 Includes both an **evaluator** and a **simulator** to analyze deduction scenarios and simulate players' reasoning
 processes.
 Inspired by classic deduction board games like *Clue/Cluedo*.
+
 ---
 
 ## Features
